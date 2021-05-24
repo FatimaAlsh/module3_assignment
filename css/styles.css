@@ -50,11 +50,14 @@ h2{
 #nav-list {
   margin-top: 10px;
   background-color:lightslategray;
-  color:black;
+ color: black
 }
 #nav-list a {
   color: white;
   text-align: center;
+}
+#chick a{
+  color:black;
 }
 #nav-list a:hover {
   background: #c96969;
