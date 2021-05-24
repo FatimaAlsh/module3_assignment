@@ -24,7 +24,7 @@ padding: auto;
 h2{
   color:black;
   margin:20px;
-  
+
 }
 
 .navbar-header {
@@ -50,6 +50,7 @@ h2{
 #nav-list {
   margin-top: 10px;
   background-color:lightslategray;
+  color:black;
 }
 #nav-list a {
   color: white;
